@@ -1,3 +1,3 @@
 export const load = () => {
-	console.log('THIS IS A SHARED LOADER');
+	console.log('THIS IS A SHARED LOADER - from deployment');
 };
